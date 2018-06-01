@@ -89,7 +89,7 @@
       <file leaf-file-name="EmployeeController.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/pers/shayz/crud/controller/EmployeeController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
+            <state relative-caret-position="-51">
               <caret line="18" column="21" lean-forward="true" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
             </state>
           </provider>
@@ -226,7 +226,7 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
+  <component name="ProjectFrameBounds">
     <option name="x" value="7" />
     <option name="y" value="30" />
     <option name="width" value="1528" />
@@ -368,6 +368,11 @@
             </path>
             <path>
               <item name="ssmcrud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ssmcrud" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ssmcrud" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
           </expand>
@@ -385,7 +390,7 @@
     <property name="last_opened_file_path" value="D:/apache-tomcat-9.0.8/lib/mysql-connector-java-8.0.11.jar!/" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="File.Encoding" />
@@ -722,7 +727,7 @@
       <workItem from="1527664406964" duration="1476000" />
       <workItem from="1527680285577" duration="8179000" />
       <workItem from="1527743274266" duration="19128000" />
-      <workItem from="1527821973941" duration="19163000" />
+      <workItem from="1527821973941" duration="20152000" />
     </task>
     <task id="LOCAL-00001" summary="2018/6/1/18:34">
       <created>1527849357498</created>
@@ -767,7 +772,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="122519000" />
+    <option name="totallyTimeSpent" value="123508000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -800,11 +805,11 @@
       <window_info anchor="bottom" id="Java Enterprise" order="13" weight="0.3297062" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
       <window_info anchor="bottom" id="Version Control" order="11" weight="0.32897604" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4990758" visible="true" weight="0.34749454" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4990758" weight="0.34749454" />
       <window_info anchor="bottom" id="Spring" order="8" />
       <window_info anchor="bottom" id="Terminal" order="14" weight="0.32906976" />
       <window_info anchor="bottom" id="SQL" order="12" weight="0.32909784" />
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49805447" visible="true" weight="0.22752044" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49805447" visible="true" weight="0.22752044" />
       <window_info anchor="right" id="Bean Validation" order="9" />
       <window_info id="Web" order="6" sideWeight="0.5019455" side_tool="true" weight="0.23594727" />
       <window_info anchor="right" id="Theme Preview" order="7" />
@@ -1194,7 +1199,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/pers/shayz/crud/controller/EmployeeController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
+        <state relative-caret-position="-51">
           <caret line="18" column="21" lean-forward="true" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
         </state>
       </provider>
@@ -1282,7 +1287,7 @@
           <splitter-proportions>
             <option name="proportions">
               <list>
-                <option value="0.288" />
+                <option value="0.2" />
               </list>
             </option>
           </splitter-proportions>
