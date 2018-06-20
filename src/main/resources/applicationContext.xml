@@ -46,17 +46,17 @@
         <constructor-arg name="executorType" value="BATCH"/>
     </bean>
 
-    <aop:config>
-        <aop:pointcut id="txPoint" expression="execution(* pers.shayz.crud.service..*(..))"/>
-        <aop:advisor advice-ref="txAdvice" pointcut-ref="txPoint"/>
-    </aop:config>
-
-    <tx:advice id="txAdvice">
+    <tx:advice id="txAdvice" transaction-manager="transactionManager">
         <tx:attributes>
-            <tx:method name="*"/>
+            <tx:method name="*" isolation="DEFAULT" propagation="REQUIRED"/>
             <tx:method name="get*" read-only="true"/>
         </tx:attributes>
     </tx:advice>
 
+
+    <aop:config>
+        <aop:pointcut id="txPoint" expression="execution(* pers.shayz.crud.service..*(..))"/>
+        <aop:advisor advice-ref="txAdvice" pointcut-ref="txPoint"/>
+    </aop:config>
 
 </beans>

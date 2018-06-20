@@ -3,11 +3,13 @@
   <component name="ExternalStorageConfigurationManager" enabled="true" />
   <component name="FrameworkDetectionExcludesConfiguration">
     <file type="web" url="file://$PROJECT_DIR$" />
+    <file type="web" url="file://D:/tts9/workspace/ServletJDBC" />
   </component>
   <component name="MavenProjectsManager">
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="D:/tts9/workspace/ServletJDBC/pom.xml" />
       </list>
     </option>
   </component>
