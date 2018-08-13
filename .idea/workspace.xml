@@ -7,82 +7,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fde2cce9-677a-45eb-8b26-c8f078a162a5" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/mysql_connector_java_8_0_11.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/pers/shayz/crud/bean/Department.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/pers/shayz/crud/bean/DepartmentExample$Criteria.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/pers/shayz/crud/bean/DepartmentExample$Criterion.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/pers/shayz/crud/bean/DepartmentExample$GeneratedCriteria.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/pers/shayz/crud/bean/DepartmentExample.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/pers/shayz/crud/bean/Employee.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/pers/shayz/crud/bean/EmployeeExample$Criteria.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/pers/shayz/crud/bean/EmployeeExample$Criterion.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/pers/shayz/crud/bean/EmployeeExample$GeneratedCriteria.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/pers/shayz/crud/bean/EmployeeExample.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/pers/shayz/crud/bean/Msg.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/pers/shayz/crud/controller/DepartmentController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/pers/shayz/crud/controller/EmployeeController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/pers/shayz/crud/dao/DepartmentMapper.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/pers/shayz/crud/dao/EmployeeMapper.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/pers/shayz/crud/service/DepartmentService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/pers/shayz/crud/service/EmployeeService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/pers/shayz/crud/test/MBGTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/pers/shayz/crud/test/MapperTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/pers/shayz/crud/test/MvcTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/ssm-crud.war" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/ssm-crud/WEB-INF/classes/pers/shayz/crud/bean/Department.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/ssm-crud/WEB-INF/classes/pers/shayz/crud/bean/DepartmentExample$Criteria.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/ssm-crud/WEB-INF/classes/pers/shayz/crud/bean/DepartmentExample$Criterion.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/ssm-crud/WEB-INF/classes/pers/shayz/crud/bean/DepartmentExample$GeneratedCriteria.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/ssm-crud/WEB-INF/classes/pers/shayz/crud/bean/DepartmentExample.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/ssm-crud/WEB-INF/classes/pers/shayz/crud/bean/Employee.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/ssm-crud/WEB-INF/classes/pers/shayz/crud/bean/EmployeeExample$Criteria.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/ssm-crud/WEB-INF/classes/pers/shayz/crud/bean/EmployeeExample$Criterion.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/ssm-crud/WEB-INF/classes/pers/shayz/crud/bean/EmployeeExample$GeneratedCriteria.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/ssm-crud/WEB-INF/classes/pers/shayz/crud/bean/EmployeeExample.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/ssm-crud/WEB-INF/classes/pers/shayz/crud/bean/Msg.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/ssm-crud/WEB-INF/classes/pers/shayz/crud/controller/DepartmentController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/ssm-crud/WEB-INF/classes/pers/shayz/crud/controller/EmployeeController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/ssm-crud/WEB-INF/classes/pers/shayz/crud/dao/DepartmentMapper.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/ssm-crud/WEB-INF/classes/pers/shayz/crud/dao/EmployeeMapper.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/ssm-crud/WEB-INF/classes/pers/shayz/crud/service/DepartmentService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/ssm-crud/WEB-INF/classes/pers/shayz/crud/service/EmployeeService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/ssm-crud/WEB-INF/classes/pers/shayz/crud/test/MBGTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/ssm-crud/WEB-INF/classes/pers/shayz/crud/test/MapperTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/ssm-crud/WEB-INF/classes/pers/shayz/crud/test/MvcTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/ssm-crud/WEB-INF/lib/aspectjweaver-1.8.13.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/ssm-crud/WEB-INF/lib/c3p0-0.9.1.2.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/ssm-crud/WEB-INF/lib/classmate-1.3.4.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/ssm-crud/WEB-INF/lib/hamcrest-core-1.3.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/ssm-crud/WEB-INF/lib/hibernate-validator-6.0.10.Final.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/ssm-crud/WEB-INF/lib/jackson-annotations-2.9.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/ssm-crud/WEB-INF/lib/jackson-core-2.9.5.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/ssm-crud/WEB-INF/lib/jackson-databind-2.9.5.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/ssm-crud/WEB-INF/lib/jboss-logging-3.3.2.Final.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/ssm-crud/WEB-INF/lib/jsqlparser-1.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/ssm-crud/WEB-INF/lib/jstl-1.2.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/ssm-crud/WEB-INF/lib/junit-4.12.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/ssm-crud/WEB-INF/lib/mybatis-3.4.5.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/ssm-crud/WEB-INF/lib/mybatis-generator-core-1.3.6.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/ssm-crud/WEB-INF/lib/mybatis-spring-1.3.1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/ssm-crud/WEB-INF/lib/mysql-connector-java-5.1.41.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/ssm-crud/WEB-INF/lib/pagehelper-5.1.4.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/ssm-crud/WEB-INF/lib/spring-aop-5.0.6.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/ssm-crud/WEB-INF/lib/spring-aspects-5.0.6.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/ssm-crud/WEB-INF/lib/spring-beans-5.0.6.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/ssm-crud/WEB-INF/lib/spring-context-5.0.6.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/ssm-crud/WEB-INF/lib/spring-core-5.0.6.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/ssm-crud/WEB-INF/lib/spring-expression-5.0.6.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/ssm-crud/WEB-INF/lib/spring-jcl-5.0.6.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/ssm-crud/WEB-INF/lib/spring-jdbc-5.0.6.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/ssm-crud/WEB-INF/lib/spring-test-5.0.6.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/ssm-crud/WEB-INF/lib/spring-test-5.0.7.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/ssm-crud/WEB-INF/lib/spring-tx-5.0.6.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/ssm-crud/WEB-INF/lib/spring-web-5.0.6.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/ssm-crud/WEB-INF/lib/spring-webmvc-5.0.6.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/ssm-crud/WEB-INF/lib/validation-api-2.0.1.Final.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -111,6 +36,7 @@
     <session id="1502354297">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="1" />
           <entry key="project.open.time.3" value="1" />
           <entry key="project.opened" value="1" />
         </counts>
@@ -172,7 +98,7 @@
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="-246">
-              <caret line="44" lean-forward="true" selection-start-line="44" selection-end-line="44" />
+              <caret line="44" selection-start-line="44" selection-end-line="44" />
             </state>
           </provider>
         </entry>
@@ -318,10 +244,10 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="634" />
-    <option name="y" value="69" />
-    <option name="width" value="1288" />
-    <option name="height" value="902" />
+    <option name="x" value="212" />
+    <option name="y" value="6" />
+    <option name="width" value="1607" />
+    <option name="height" value="860" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -791,7 +717,7 @@
       <workItem from="1530500585421" duration="1201000" />
       <workItem from="1530513302127" duration="94000" />
       <workItem from="1531182437158" duration="502000" />
-      <workItem from="1534144942334" duration="390000" />
+      <workItem from="1534144942334" duration="723000" />
     </task>
     <task id="LOCAL-00001" summary="2018/6/1/18:34">
       <created>1527849357498</created>
@@ -836,7 +762,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="216704000" />
+    <option name="totallyTimeSpent" value="217037000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1488,7 +1414,7 @@
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-246">
-          <caret line="44" lean-forward="true" selection-start-line="44" selection-end-line="44" />
+          <caret line="44" selection-start-line="44" selection-end-line="44" />
         </state>
       </provider>
     </entry>
