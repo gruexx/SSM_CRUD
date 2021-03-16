@@ -6,9 +6,10 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="ServletJDBC" />
         <module name="ssm-crud" />
+        <module name="ServletJDBC" />
         <module name="ssmcrud" />
+        <module name="SSM_CRUD" />
       </profile>
     </annotationProcessing>
   </component>
